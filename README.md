@@ -3,9 +3,9 @@ This repo contains the code for a quiz app for Android and iOS written in Dart w
 Feel free to use parts of the code.
 ##Screenshots
 
-<img src="https://raw.githubusercontent.com/bramvbilsen/Flutter-Quiz-Preview-App/master/screenshots/Screenshot_1519245085.png" width="300">
-<img src="https://raw.githubusercontent.com/bramvbilsen/Flutter-Quiz-Preview-App/master/screenshots/Screenshot_1519245074.png" width="300">
-<img src="https://raw.githubusercontent.com/bramvbilsen/Flutter-Quiz-Preview-App/master/screenshots/Screenshot_1519244338.png" width="300">
+<img src="https://raw.githubusercontent.com/bramvbilsen/Flutter-Quiz-Preview-App/master/screenshots/Screenshot_1519245085.png" width="250">
+<img src="https://raw.githubusercontent.com/bramvbilsen/Flutter-Quiz-Preview-App/master/screenshots/Screenshot_1519245074.png" width="250">
+<img src="https://raw.githubusercontent.com/bramvbilsen/Flutter-Quiz-Preview-App/master/screenshots/Screenshot_1519244338.png" width="250">
 
 
 ## Getting Started
