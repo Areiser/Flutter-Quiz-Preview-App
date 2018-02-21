@@ -46,7 +46,7 @@ class QuestionTextState extends State<QuestionText> with SingleTickerProviderSta
   @override
   Widget build(BuildContext context) {
     return new Text(
-      "Question ${widget._questionNumber.toString()}: " + widget._question,
+      "Statement ${widget._questionNumber.toString()}: " + widget._question,
       style: new TextStyle(fontSize: fontSizeAnimation.value * 16.0)
     );
   }
